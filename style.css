@@ -1,0 +1,44 @@
+body {
+    background-color: orange;
+    margin: 0;
+    padding: 0;
+}
+#cv-brad {
+    background-color: red;
+    display: flex;
+}
+
+#cv-brad aside {
+    background-color: blue;
+    width: 30%;
+}
+
+#cv-brad main {
+    background-color: green;
+    width: 70%;
+}
+
+#cv-brad aside h1 {
+    background-color: hotpink;
+    text-align: center;
+}
+
+#cv-brad p.contact{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 30px;
+}
+#cv-brad #lorem{
+    margin-top: auto;
+    margin-right: 30px;
+    margin-bottom: 150px;
+    margin-left: 30px;
+    text-align: justify;
+}
+#imgbrad {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 50%;
+}
